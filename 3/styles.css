@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://wallpaper.dog/large/977430.jpg);
+}
+
+.container{
+    /* text-align: center; */
+    margin-top: 200px;
+    padding-left:40%;
+    padding-right:49% ;
+
+}
+
+.randomQuoat{
+    padding-bottom: 20px;
+}
+
+.Quoat_para{
+    border: 1px solid black;
+    max-width: 155px;
+    min-height: 150px;
+}
+.buttons{
+    padding-top: 20px;
+}
+
+.buttons:hover{
+    background-color: blue;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+/* POPUP Div */
+.popup{
+    padding: 40px;
+    width: 500px;
+    background-color:#fff;
+    border-radius: 6px;
+    position: absolute;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%,-50%) scale(1.5);
+    color: #333;
+    visibility: hidden;
+}
+
+
