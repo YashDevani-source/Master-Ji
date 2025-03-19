@@ -1,0 +1,37 @@
+# 📚 Random Quote Generator
+
+A dynamic web application that generates random quotes with additional features like adding self-written quotes, sharing them on Twitter, and copying quotes with a single click.
+
+---
+
+## 🚀 Features
+
+- 🎲 **Generate Random Quotes:** Get a variety of random quotes with a click.
+- ✍️ **Add Your Own Quotes:** Allows users to add and save their self-written quotes.
+- 🐦 **Share on Twitter:** Easily share your favorite quotes on Twitter.
+- 📋 **Copy to Clipboard:** Copy any quote with a single click.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5, CSS3, JavaScript
+- free API for generating Quoat
+---
+
+## 📸 Preview
+
+![alt text](image.png)
+
+## 📄 How to Run
+
+1. Git repository link:
+   ```
+   https://github.com/YashDevani-source/Master-Ji/tree/main/3
+
+2. Deployment link 
+```bash 
+https://master-ji-murex.vercel.app/
+
+    
+
